@@ -10,17 +10,17 @@ The great majority of the results form the original analysis remind unchained. W
 
 Here is the original analysis 
 
-![Alt text] (https://github.com/dntalx/School_District_Analysis/blob/main/Resources/original_code.png)
+![Alt text](https://github.com/dntalx/School_District_Analysis/blob/main/Resources/original_code.png)
 
 This is the uopdated analysis 
 
-![Alt text] (https://github.com/dntalx/School_District_Analysis/blob/main/Resources/updated_code.png)
+![Alt text](https://github.com/dntalx/School_District_Analysis/blob/main/Resources/updated_code.png)
 
 The following images are of Thomas High School to have a better look of the changes between the original analysis (first image) and the updated analysis (second image).
 
-![Alt text] (https://github.com/dntalx/School_District_Analysis/blob/main/Resources/ths_orginal.png)
+![Alt text](https://github.com/dntalx/School_District_Analysis/blob/main/Resources/ths_orginal.png)
 
-![Alt text] (https://github.com/dntalx/School_District_Analysis/blob/main/Resources/ths_updated.png)
+![Alt text](https://github.com/dntalx/School_District_Analysis/blob/main/Resources/ths_updated.png)
 
 
 ## Summary
