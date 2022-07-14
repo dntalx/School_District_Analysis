@@ -26,7 +26,7 @@ The following images are of Thomas High School to have a better look of the chan
 ## Summary
 
 We can see four changes the Thomas High School scores were:
-The Average Math Scores
+- The Average Math Scores
 - % Passing Math
 - %PassingReading
 - % Overall Passing 
